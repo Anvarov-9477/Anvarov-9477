@@ -4,7 +4,8 @@
 
 I
 [![Instagram Badge](https://img.shields.io/badge/-@anvarov_9477_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/Anvarov.dev/)](https://www.instagram.com/Anvarov_9477_/)
-[![Telegram Badge](https://img.shields.io/badgeb @rustamxoja_anvarov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/@rustamxoja_anvarov)](https://t.me/@rustamxoja_anvarov) 
+
+
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
