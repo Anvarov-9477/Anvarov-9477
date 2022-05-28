@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 -->
-<h1 align="center">Sukhrob - The Web  DEVELOPMENT - Anvarov</h1>
+<h1 align="center">- The Web  DEVELOPMENT - Anvarov</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
