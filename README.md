@@ -9,21 +9,11 @@ Here are some ideas to get you started:
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-
-
-
-
 [![Instagram Badge](https://img.shields.io/badge/-@anvarov_9477_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/nuraliev.dev/)](https://www.instagram.com/sukhrobnuraliev_/)
 [![Telegram Badge](https://img.shields.io/badge/@rustamxoja_anvarov-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/anvarov )](https://t.me/@rustamxoja_anvarov) 
 
-
 <h2 align="left">👨🏻‍💻 About Me: front </h2>
-
-
 ## ⚡ Technologies
-
-
-
 ![Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
@@ -55,16 +45,8 @@ Here are some ideas to get you started:
 
 
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
-<h1 align="center"> front end UI/UX Rustamxo'ja Anvarov</h1>
+<h1 align="center"> front end  Rustamxo'ja Anvarov</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustamxojaanvarov&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxojaanvarov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustamxojaanvarov" alt="rustamxojaanvarov" /></a> </p>
