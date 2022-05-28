@@ -42,9 +42,6 @@ Here are some ideas to get you started:
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
-
-
 preview
 <h1 align="center"> front end  Rustamxo'ja Anvarov</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustamxojaanvarov&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxojaanvarov" /> </p>
